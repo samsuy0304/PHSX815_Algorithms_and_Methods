@@ -1,2 +1,3 @@
-# PHSX815_HW11
-Showcasing the effects of Central Limit Theorem
+# Algorythms anad Methods
+
+This repository contains code on topics like neural network, expectation maximization, density estimation, etc. 
